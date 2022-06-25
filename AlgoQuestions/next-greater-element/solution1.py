@@ -1,0 +1,2 @@
+def nextGreaterElement(array):
+    return []

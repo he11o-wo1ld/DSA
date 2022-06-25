@@ -1,0 +1,85 @@
+Test Case 1
+{
+  "str1": "abc",
+  "str2": "yabd"
+}
+Test Case 2
+{
+  "str1": "",
+  "str2": ""
+}
+Test Case 3
+{
+  "str1": "",
+  "str2": "abc"
+}
+Test Case 4
+{
+  "str1": "abc",
+  "str2": "abc"
+}
+Test Case 5
+{
+  "str1": "abc",
+  "str2": "abx"
+}
+Test Case 6
+{
+  "str1": "abc",
+  "str2": "abcx"
+}
+Test Case 7
+{
+  "str1": "abc",
+  "str2": "yabcx"
+}
+Test Case 8
+{
+  "str1": "algoexpert",
+  "str2": "algozexpert"
+}
+Test Case 9
+{
+  "str1": "abcdefghij",
+  "str2": "1234567890"
+}
+Test Case 10
+{
+  "str1": "abcdefghij",
+  "str2": "a234567890"
+}
+Test Case 11
+{
+  "str1": "biting",
+  "str2": "mitten"
+}
+Test Case 12
+{
+  "str1": "cereal",
+  "str2": "saturday"
+}
+Test Case 13
+{
+  "str1": "cereal",
+  "str2": "saturdzz"
+}
+Test Case 14
+{
+  "str1": "abbbbbbbbb",
+  "str2": "bbbbbbbbba"
+}
+Test Case 15
+{
+  "str1": "xabc",
+  "str2": "abcx"
+}
+Test Case 16
+{
+  "str1": "table",
+  "str2": "bal"
+}
+Test Case 17
+{
+  "str1": "gumbo",
+  "str2": "gambol"
+}
