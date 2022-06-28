@@ -1,0 +1,64 @@
+Test Case 1
+{
+  "string": "1921680"
+}
+Test Case 2
+{
+  "string": "3700100"
+}
+Test Case 3
+{
+  "string": "9743"
+}
+Test Case 4
+{
+  "string": "97430"
+}
+Test Case 5
+{
+  "string": "997430"
+}
+Test Case 6
+{
+  "string": "255255255255"
+}
+Test Case 7
+{
+  "string": "255255255256"
+}
+Test Case 8
+{
+  "string": "99999999"
+}
+Test Case 9
+{
+  "string": "33133313"
+}
+Test Case 10
+{
+  "string": "00010"
+}
+Test Case 11
+{
+  "string": "100100"
+}
+Test Case 12
+{
+  "string": "1072310"
+}
+Test Case 13
+{
+  "string": "1"
+}
+Test Case 14
+{
+  "string": "11"
+}
+Test Case 15
+{
+  "string": "111"
+}
+Test Case 16
+{
+  "string": "00001"
+}
