@@ -1,4 +1,4 @@
-Def List Comprehension(list1, list2):
+""" Def List Comprehension(list1, list2):
     L1 = 0
     L2 = 0
     
@@ -13,11 +13,11 @@ Def List Comprehension(list1, list2):
 
 Touple = (1, 2, 3)
 
-Dic = {“a”:1,{“b”:2}}
+# Dic = {“a”:1,{“b”:2}}
 Find value of a
 
 Dic[a] 
-Dic = {“a” : {“b”:2}}
+# Dic = {“a” : {“b”:2}}
 
 
 List1 = [1, 3, 5]
@@ -27,7 +27,7 @@ List2 = [2, 4, 8]
 Arr = [1,-2,3,1,4]
 3,1,4 =8
 Max sum of largest contiguous array
-
+"""
 
 # Online Python compiler (interpreter) to run Python online.
 # Write Python 3 code in this online editor and run it.
@@ -57,7 +57,7 @@ def swap(l, r, arr):
 print(GetReverse(arr))
 
 
-Arr = [10,-2,3,1,4]
+Arr = [1,-2,3,1,4]
 
 def maxSum(arr):
     minimum = arr[0]
@@ -76,8 +76,18 @@ def maxSum(arr):
         
     return maxsum
 
-print(maxSum(Arr))
+def kadence(a):
+    max_so_far =a[0]
+    curr_max = a[0]
 
+    for i in range(1,len(a)):
+        curr_max = max(a[i], curr_max + a[i])
+        max_so_far = max(max_so_far,curr_max)
+    
+    return max_so_far
+
+print(maxSum(Arr))
+print(kadence(Arr))
 
     
     
