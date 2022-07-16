@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LeetCode/14 M7 - Leetcode 18 - 4Sum/14 M7 - Leetcode 18 - 4Sum.iml" filepath="$PROJECT_DIR$/LeetCode/14 M7 - Leetcode 18 - 4Sum/14 M7 - Leetcode 18 - 4Sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode/16 M5 Leetcode 42 - Trapping Rain Water/16 M5 Leetcode 42 - Trapping Rain Water.iml" filepath="$PROJECT_DIR$/LeetCode/16 M5 Leetcode 42 - Trapping Rain Water/16 M5 Leetcode 42 - Trapping Rain Water.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode/17 M5 - Leetcode 628 - Maximum Product of 3 Numbers/17 M5 - Leetcode 628 - Maximum Product of 3 Numbers.iml" filepath="$PROJECT_DIR$/LeetCode/17 M5 - Leetcode 628 - Maximum Product of 3 Numbers/17 M5 - Leetcode 628 - Maximum Product of 3 Numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode/18 M7 - Leetcode 128 - Longest Consecutive Sequence/18 M7 - Leetcode 128 - Longest Consecutive Sequence.iml" filepath="$PROJECT_DIR$/LeetCode/18 M7 - Leetcode 128 - Longest Consecutive Sequence/18 M7 - Leetcode 128 - Longest Consecutive Sequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DSA.iml" filepath="$PROJECT_DIR$/.idea/DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode/LeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode/18 M7 - Leetcode 128 - Longest Consecutive Sequence/O(n)/O(n).iml" filepath="$PROJECT_DIR$/LeetCode/18 M7 - Leetcode 128 - Longest Consecutive Sequence/O(n)/O(n).iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode/17 M5 - Leetcode 628 - Maximum Product of 3 Numbers/O(n)_without_sort/O(n)_without_sort.iml" filepath="$PROJECT_DIR$/LeetCode/17 M5 - Leetcode 628 - Maximum Product of 3 Numbers/O(n)_without_sort/O(n)_without_sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Python/Python.iml" filepath="$PROJECT_DIR$/Python/Python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+    </modules>
+  </component>
+</project>
