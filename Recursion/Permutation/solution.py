@@ -1,22 +1,26 @@
-def permutation(array):
-	i = 0
+def swap(nums, i, j):
+    tmp = nums[i]
+    nums[i] = nums[j]
+    nums[j] = tmp
+    return nums
 
-	def swap(arr, i, j):
+def solve(nums, ans, idx):
+    if idx >= len(nums):
+        ans.append(nums)
+        return
+
+    for i in range(idx, len(nums)):
+        swap(nums, idx, i)
+        solve(nums, ans, idx)
+        swap(nums, idx, i)
+    return ans
+
+def permute(nums):
+    ans = []
+    idx = 0
+    solve(nums, ans, idx);
+    return ans
 
 
-	def solve(arr, i):
-		if i == len(arr) - 1:
-			print(arr)
-			return
-
-		for j in range(i, len(arr)):
-			arr[j], arr[i] = arr[i], arr[j]
-			solve(arr, i+1)
-			arr[i], arr[j] = arr[j], arr[i]
-
-	
-	solve(array, i)
-	return array;
-
-arr = 'ABCD'
-print(permutation(arr))
+nums = [1,2,3]
+print(permute(nums))
