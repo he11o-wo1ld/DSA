@@ -1,11 +1,11 @@
 def largestRange(array):
     s = min(array)
-    l = max(array)
+    l = max(array) 
     arr_dict = {}
     for i in range(len(array)):
         arr_dict[array[i]] = True
     for i in range(s, l+1):
-        
+
     return arr_dict
 
 
