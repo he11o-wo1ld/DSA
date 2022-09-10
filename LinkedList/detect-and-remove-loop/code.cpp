@@ -67,7 +67,6 @@ Node *removeLoop(Node *head)
     temp -> next = NULL;
     return head;
 }
-
 int main(){
 	return 0;
 }
