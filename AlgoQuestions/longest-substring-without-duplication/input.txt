@@ -1,0 +1,40 @@
+Test Case 1
+{
+  "string": "clementisacap"
+}
+Test Case 2
+{
+  "string": "a"
+}
+Test Case 3
+{
+  "string": "abc"
+}
+Test Case 4
+{
+  "string": "abcb"
+}
+Test Case 5
+{
+  "string": "abcdeabcdefc"
+}
+Test Case 6
+{
+  "string": "abccdeaabbcddef"
+}
+Test Case 7
+{
+  "string": "abacacacaaabacaaaeaaafa"
+}
+Test Case 8
+{
+  "string": "abcdabcef"
+}
+Test Case 9
+{
+  "string": "abcbde"
+}
+Test Case 10
+{
+  "string": "clementisanarm"
+}
